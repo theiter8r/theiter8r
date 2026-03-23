@@ -138,7 +138,7 @@ A persistent, full-stack multi-agent system acting as an always-on personal inte
 
 <div align="center">
 
-<br/>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>

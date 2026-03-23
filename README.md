@@ -126,15 +126,12 @@ A persistent, full-stack multi-agent system acting as an always-on personal inte
 
 ##  Highlights
 
-- **Founded** CIREX platform
+- **Founded** Focuzdrvn platform:for Tech Entreprenurs
 - **Directed** Singularity Hackathon (300+ participants, end-to-end delivery)
 - **E-Cell IIT Bombay** Campus Ambassador, organized 5+ workshops for 200+ students
 - **Built** a decoder-only transformer LLM entirely from scratch
 - **Researched** Mamba SSM architecture and reproduced benchmark experiments
-
-<br/>
-
----
+- Won Gold medal in Kaggle Tunix competition 2025
 
 <div align="center">
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Raaj%20Patkar&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Applied%20ML%20Researcher%20%C2%B7%20LLM%20Engineer%20%C2%B7%20Tech%20Entrepreneur&descSize=16&descAlignY=55&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Raaj%20Patkar&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Applied%20ML%20Researcher%20%C2%B7%20LLM%20Engineer%20%C2%B7%20Tech%20Entrepreneur&descSize=16&descAlignY=55&reversal=false&animation=fadeIn)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Raaj%20Patkar&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Applied%20ML%20Researcher%20%C2%B7%20LLM%20Engineer%20%C2%B7%20Tech%20Entrepreneur&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 

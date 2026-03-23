@@ -96,7 +96,7 @@ A persistent, full-stack multi-agent system acting as an always-on personal inte
 
 <br/>
 
-## `🛠️` Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -112,7 +112,7 @@ A persistent, full-stack multi-agent system acting as an always-on personal inte
 
 <br/>
 
-## `📜` Certifications
+##  Certifications
 
 <div align="center">
 
@@ -124,7 +124,7 @@ A persistent, full-stack multi-agent system acting as an always-on personal inte
 
 <br/>
 
-## `🏆` Highlights
+##  Highlights
 
 - **Founded** CIREX platform
 - **Directed** Singularity Hackathon (300+ participants, end-to-end delivery)
@@ -140,11 +140,6 @@ A persistent, full-stack multi-agent system acting as an always-on personal inte
 
 <br/>
 
-```
- "I don't just use models. I build them, break them, and make them run on a Raspberry Pi."
-```
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
 
